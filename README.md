@@ -31,8 +31,8 @@ This program provides a simple and intuitive way to convert between different un
    
 # Requirements
 
-Python 3.x
-Tkinter library (included in Python standard library)
+- Python 3.x
+- Tkinter library (included in Python standard library)
 
 
 # Contributing
